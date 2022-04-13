@@ -34,5 +34,10 @@ The css files are created for the following html structure:
   </div>
 </body>
 ```
+## Demos and aviable themes
+Now, they're the following themes aviable:
+- dark: [demo](https://apilonius64.github.io/demos/CSSThemeCollection/dark/test/test.html)
+- darkShadow: [demo](https://apilonius64.github.io/demos/CSSThemeCollection/darkShadow/test/test.html)
+- dark2: [demo](https://apilonius64.github.io/demos/CSSThemeCollection/dark2/test/test.html)
 ## License
 This repository and all its contents all licensed under the MIT license. Look at the [LICENSE](https://github.com/Apilonius64/CSSThemeCollection/blob/main/LICENSE)  file for more information
