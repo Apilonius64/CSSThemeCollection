@@ -34,3 +34,5 @@ The css files are created for the following html structure:
   </div>
 </body>
 ```
+## License
+This repository and all its contents all licensed under the MIT license. Look at the [LICENSE](https://github.com/Apilonius64/CSSThemeCollection/blob/main/LICENSE)  file for more information
