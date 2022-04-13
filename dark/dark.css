@@ -1,0 +1,89 @@
+body{
+    background-color: rgb(30, 30, 30);
+    color: rgb(234, 234, 234);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1, h2, h3, summary{
+    border-bottom: 1px solid rgb(83, 83, 83);
+    padding: 5px;
+}
+summary{
+    margin-bottom: 10px;
+}
+p, details, form, figure, div > a{
+    border-top: 4px solid rgb(30, 30, 30);
+    background-color: rgb(38, 38, 38);
+    padding: 10px;
+}
+div > a{
+    border: none;
+    line-height: 2.3em;
+    border-bottom: 4px solid rgb(30, 30, 30);
+}
+div > a:hover{
+    border-bottom-color: rgb(11, 11, 11);
+}
+figure{
+    margin-left: 0px;
+}
+figcaption{
+    font-style: italic;
+    color: rgb(160, 160, 160);
+}
+div{
+    padding: 10px;
+    background-color: rgb(49, 49, 49);
+    margin-bottom: 5px;
+    border-top: 4px solid rgb(83, 83, 83);
+}
+a{
+    color: rgb(202, 202, 202);
+}
+a:hover{
+    color: rgb(255, 255, 255);
+}
+input, button{
+    padding: 10px;
+    min-width: 200px;
+    background-color: rgb(25, 25, 25);
+    color: rgb(234, 234, 234);
+    border: none;
+    border-bottom: 2px solid rgb(49, 49, 49);
+    margin-top: 5px;
+}
+input[type="color"]{
+    min-height: 38px;
+}
+input[type="text"]{
+    min-width: 180px;
+}
+button, input[type="submit"], input[type="color"], input[type="checkbox"], summary{
+    cursor: pointer;
+}
+summary{
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */
+}
+input:focus, button:hover, input[type="submit"]:hover, input[type="color"]:hover{
+    background-color: rgb(17, 17, 17);
+}
+input, input:focus{
+    outline: none;
+}
+::-webkit-scrollbar {
+    width: 12px;
+  }
+::-webkit-scrollbar-track{
+    background: rgb(38, 38, 38);
+}
+::-webkit-scrollbar-thumb{
+    background: rgb(49, 49, 49);
+}
+::-webkit-scrollbar-thumb:hover{
+    background: rgb(60, 60, 60);
+}
