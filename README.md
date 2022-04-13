@@ -35,7 +35,7 @@ The css files are created for the following html structure:
 </body>
 ```
 ## Demos and aviable themes
-Now, they're the following themes aviable:
+They're the following themes aviable:
 - dark: <a href="https://apilonius64.github.io/demos/CSSThemeCollection/dark/test/test.html" target="_blank">demo</a>
 - darkShadow: <a href="https://apilonius64.github.io/demos/CSSThemeCollection/darkShadow/test/test.html" target="_blank">demo</a>
 - dark2: <a href="https://apilonius64.github.io/demos/CSSThemeCollection/dark2/test/test.html" target="_blank">demo</a>
