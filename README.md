@@ -40,4 +40,4 @@ They're the following themes aviable:
 - darkShadow: <a href="https://apilonius64.github.io/demos/CSSThemeCollection/darkShadow/test/test.html" target="_blank">demo</a>
 - dark2: <a href="https://apilonius64.github.io/demos/CSSThemeCollection/dark2/test/test.html" target="_blank">demo</a>
 ## License
-This repository and all its contents all licensed under the MIT license. Look at the [LICENSE](https://github.com/Apilonius64/CSSThemeCollection/blob/main/LICENSE)  file for more information
+This repository and all its contents are licensed under the MIT license. Look at the [LICENSE](https://github.com/Apilonius64/CSSThemeCollection/blob/main/LICENSE)  file for more information
